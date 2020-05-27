@@ -1,0 +1,28 @@
+﻿body {
+    font-family: 'Times New Roman';
+    font-style: oblique;
+}
+
+.navbar{
+    background-color: rgb(65, 39, 17);
+}
+
+.quem-somos{
+    background-color: rgb(128, 128, 128);
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color: rgb(255, 255, 255);
+}
+
+.plan-footer {
+    background-color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white
+}
